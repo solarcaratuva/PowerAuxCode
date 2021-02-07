@@ -1,10 +1,10 @@
-# Template Code
-UVA Solar Car Template code repository. This repository contains the embedded systems template dev environment setup to be used by all boards.
+# Power/Aux Code
+UVA Solar Car Power/Aux code repository. This repository contains the embedded code for the Power/Aux board.
 
 
 ## Hardware
-* The PCB layouts and associated schematics for the Main Node and Cell Node boards can be found on the [associated repositories on CADLAB.io](https://cadlab.io/solar-car-uva).
-* All boards use the [STM32G473CE MCU](https://www.mouser.com/datasheet/2/389/stm32f042c4-1851049.pdf).
+* The PCB layouts and associated schematics for Power/Aux board can be found on the [associated repository on CADLAB.io](https://cadlab.io/project/23150).
+* The board uses the [STM32G473CE MCU](https://www.mouser.com/datasheet/2/389/stm32f042c4-1851049.pdf).
 
 
 ## Software
